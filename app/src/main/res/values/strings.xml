@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Operaciones</string>
+    <string name="input_first_number">Input First Number</string>
+    <string name="input_second_number">Input Second Number</string>
+    <string name="calculate">Calculate</string>
+    <string name="start">START</string>
+    <string name="next">NEXT</string>
+    <string name="next_operation">Next Operation</string>
+    <string name="inicio">INICIO</string>
+</resources>
